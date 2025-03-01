@@ -1,0 +1,10 @@
+const url = 'https://wft-geo-db.p.rapidapi.com/v1/geo/cities';
+const options = {
+	method: 'GET',
+	headers: {
+		'x-rapidapi-key': '4e906c573cmsh1d644da51de79ffp10e537jsn88814ea7757f',
+		'x-rapidapi-host': 'wft-geo-db.p.rapidapi.com'
+	}
+};
+94cb93335fa21ae4a9beed15aac05f3b
+VITE_APP_ID="94cb93335fa21ae4a9beed15aac05f3b"
